@@ -8,8 +8,8 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.core.os.bundleOf
-import qr.a.rooshen.hwkotlinlesson5.databinding.FragmentAuthorizationBinding
-import qr.a.rooshen.hwkotlinlesson5.databinding.FragmentBasketBinding
+import qr.a.rooshen.hwkotlinlesson6.databinding.FragmentAuthorizationBinding
+import qr.a.rooshen.hwkotlinlesson6.databinding.FragmentBasketBinding
 
 class BasketFragment : Fragment() {
 

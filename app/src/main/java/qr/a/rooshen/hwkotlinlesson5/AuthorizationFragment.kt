@@ -8,7 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.EditText
 import androidx.appcompat.widget.AppCompatButton
-import qr.a.rooshen.hwkotlinlesson5.databinding.FragmentAuthorizationBinding
+import qr.a.rooshen.hwkotlinlesson6.databinding.FragmentAuthorizationBinding
 import kotlin.system.exitProcess
 
 

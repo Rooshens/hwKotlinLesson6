@@ -13,4 +13,6 @@
                                              <br>зеленью. Подается с добавками на выбор,</br>
                                              <br>отварным белым рисом или рисовой</br>
                                              <br>вермишелью на выбор</br></string>
+    <string name="DialogPriceCounter">235 ₽</string>
+    <string name="DialogQuantityCounter">+     1     -</string>
 </resources>
